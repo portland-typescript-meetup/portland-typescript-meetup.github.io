@@ -1,0 +1,23 @@
+{
+  "name": "portland-typescript-meetup.github.io",
+  "version": "2.0.0",
+  "homepage": "https://github.com/portland-typescript-meetup/portland-typescript-meetup.github.io",
+  "authors": [
+    "Ken Howard <kenh@csgpro.com>"
+  ],
+  "description": "TypeScript PDX Community Website",
+  "main": "index.html",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "foundation": "~5.5.2",
+    "fontawesome": "~4.3.0"
+  }
+}

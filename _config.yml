@@ -1,0 +1,16 @@
+# Site settings
+title: "TypeScript PDX"
+description: "Staticly Typed JavaScript Is Awesome"
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://typescriptpdx.com" # the base hostname & protocol for your site
+
+# Build settings
+markdown: redcarpet
+
+exclude: []
+
+permalink: /blog/:year/:month/:title
+
+owner_link: http://typescriptpdx.com
+
+domain: typescriptpdx.com
