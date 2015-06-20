@@ -1,4 +1,7 @@
-fitHeight(document, '.navbar');
-setInterval(() => {
-	fitHeight(document, '.navbar');
-}, 500);
+fitHeight(document, ['.navbar', '.sidebar']);
+
+$(window).bind('resize', () => {
+	setTimeout(() => {
+		fitHeight(document, ['.navbar', '.sidebar']);
+	}, 500);
+	});
