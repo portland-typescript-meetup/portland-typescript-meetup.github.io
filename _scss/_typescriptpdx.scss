@@ -1,7 +1,48 @@
 .navbar {
-	background-color: #1c7ad1;
+	background-color: $primary-color;
 	&.column {
 		padding-left: 0;
 		padding-right: 0;
+	}
+}
+
+.sidebar {
+	background-color: rgb(220, 220, 220);
+	.tweets {
+		padding: 0 0 0 10px;
+	}
+}
+
+.meeting-card {
+	color: #fff;
+	background-color: rgb(240, 240, 240);
+	border-top: 1px solid rgb(180, 180, 180);
+	padding: 20px;
+	.post-meta {
+		color: #888;
+	}
+	&.next {
+		background-color: rgb(180, 180, 180);
+	}
+}
+
+.presenter-photo {
+	border-radius: 50%;
+	width: 20%;
+	max-width: 150px;
+	margin: 10px 15px 15px 0;
+	float: left;
+	background-color: darken($primary-color, 30%);
+}
+
+.post-header, .post-content, .post-comments {
+	padding: 20px;
+}
+
+.post-meta {
+	span {
+		display: inline-block;
+		padding-right: 20px;
+		font-size: .9em;
 	}
 }

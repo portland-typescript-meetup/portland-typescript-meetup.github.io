@@ -5,14 +5,16 @@
 
 <body>
 	
-	{% include header.html %}
-	
-	<div class="large-10 medium-8 column">
-		{{ content }}
+	<div class="row collapse">
+		{% include header.html %}
+		
+		<div class="large-8 medium-6 column" id="main">
+			{{ content }}
+		</div>
+
+		{% include sidebar.html %}
 	</div>
-	
-	{% include footer.html %}
-	
+
 	{% include scripts.html %}
 	
 </body>
