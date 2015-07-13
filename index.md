@@ -6,8 +6,9 @@ path: index.md
 <div class="meeting-card next">
 	<div class="row">
 		<div class="column small-12">
+			<img src="/images/meetings/2015-06-11-john-richter.png" alt="John Richter" class="presenter-photo" />
 			<h3>Next Meeting: TypeScript Editor Shootout</h3>
-			<h4 class="subheader">Join us for our July meeting where Adron Hall, Ken Howard, James Churchill, and others (TBD) will be presenting a "TypeScript Editor Shootout" talk. <a href="http://www.meetup.com/Portland-TypeScript-Meetup/events/223007220/" class="button radius tiny success">RSVP</a></h4>
+			<h4 class="subheader">Join us for our July meeting where Adron Hall, Ken Howard, James Churchill, Andrew Chalkley, and others (TBD) will be presenting a "TypeScript Editor Shootout" talk. <a href="http://www.meetup.com/Portland-TypeScript-Meetup/events/223007220/" class="button radius tiny success">RSVP</a></h4>
 		</div>
 	</div>
 	<div class="post-meta row">
