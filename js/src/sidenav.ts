@@ -1,7 +1,7 @@
-fitHeight(document, ['.navbar', '.sidebar']);
+var sidebarElements = ['.navbar', '.sidebar'];
+
+fitHeight(document, sidebarElements, 3000);
 
 $(window).bind('resize', () => {
-	setTimeout(() => {
-		fitHeight(document, ['.navbar', '.sidebar']);
-	}, 500);
-	});
+	fitHeight(document, ['.navbar', '.sidebar'], 500);
+});
