@@ -1,7 +1,9 @@
 ---
 layout: post
 title: "TypeScript - A Brief Overview"
-summary: "We are all human and sometimes we need a little help to get our jobs done in an effiecient and safe way. Just like construction workers where hard hats to keep them safe from falling debris, JavaScript developers need protection from unforseen hazards too. TypeScript is our hard hat."
+author: "Ken Howard"
+authorProfile: "https://github.com/kenhowardpdx"
+summary: "Sometimes we need a little help to get things done in the most effiecient and safest possible way. Just like construction workers where hard hats to keep them safe from falling debris, JavaScript developers need protection from unforseen hazards too. TypeScript is our hard hat."
 path: _posts/2015-07-13-typescript-a-brief-overview.md
 ---
 
