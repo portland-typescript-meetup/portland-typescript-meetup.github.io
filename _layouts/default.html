@@ -9,6 +9,11 @@
 		{% include header.html %}
 		
 		<div class="large-8 medium-6 column" id="main">
+
+			{%if page.path %}
+				{% include edit-button.html path=page.path %}
+			{% endif %}
+			
 			{{ content }}
 		</div>
 
