@@ -36,6 +36,7 @@ fitHeight(document, sidebarElements, 3000);
 $(window).bind('resize', function () {
     fitHeight(document, ['.navbar', '.sidebar'], 500);
 });
+fitHeight(window, '.twitter-timeline', 1000);
 $('a').filter(function (i, element) {
     return element['hostname'] && element['hostname'] !== location.hostname;
 }).attr("target", "_blank");
