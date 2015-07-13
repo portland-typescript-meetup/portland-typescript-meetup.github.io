@@ -1,0 +1,8 @@
+{%if include.page.author %}
+	{%if include.page.authorProfile %}
+		By <a href="{{ include.page.authorProfile }}">{{ include.page.author }}</a>
+	{% else %}
+	    By {{ include.page.author }}
+	{% endif %}
+{% endif %}
+On {{ include.page.date | date: "%B %d, %Y" }}

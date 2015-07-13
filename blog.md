@@ -10,10 +10,12 @@ path: blog.md
     {% for post in site.posts %}
     <div class="post-group">
         <h3 class="post-title"><a href="{{ post.url }}">{{ post.title }}</a></h3>
+        <span class="post-meta">
+            {% include post-meta.html page=post %}
+        </span>
         {% if post.summary %}
         <p class="post-summary">{{ post.summary }}</p>
         {% endif %}
-        <span class="post-meta">Published {{ post.date | date: "%B %d, %Y" }}</span>
     </div>
     {% endfor %}
     {% else %}
