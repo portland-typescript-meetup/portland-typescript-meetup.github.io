@@ -1,0 +1,46 @@
+@import "settings";
+//@import "foundation";
+@import "syntax";
+
+// Or selectively include components
+@import
+//   "../js/lib/foundation/scss/foundation/components/accordion",
+//   "../js/lib/foundation/scss/foundation/components/alert-boxes",
+"../js/lib/foundation/scss/foundation/components/block-grid",
+"../js/lib/foundation/scss/foundation/components/breadcrumbs",
+//   "../js/lib/foundation/scss/foundation/components/button-groups",
+"../js/lib/foundation/scss/foundation/components/buttons",
+"../js/lib/foundation/scss/foundation/components/clearing",
+//   "../js/lib/foundation/scss/foundation/components/dropdown",
+//   "../js/lib/foundation/scss/foundation/components/dropdown-buttons",
+"../js/lib/foundation/scss/foundation/components/flex-video",
+//   "../js/lib/foundation/scss/foundation/components/forms",
+"../js/lib/foundation/scss/foundation/components/grid",
+//   "../js/lib/foundation/scss/foundation/components/inline-lists",
+//   "../js/lib/foundation/scss/foundation/components/joyride",
+//   "../js/lib/foundation/scss/foundation/components/keystrokes",
+//   "../js/lib/foundation/scss/foundation/components/labels",
+//   "../js/lib/foundation/scss/foundation/components/magellan",
+//   "../js/lib/foundation/scss/foundation/components/orbit",
+"../js/lib/foundation/scss/foundation/components/pagination",
+//   "../js/lib/foundation/scss/foundation/components/panels",
+//   "../js/lib/foundation/scss/foundation/components/pricing-tables",
+//   "../js/lib/foundation/scss/foundation/components/progress-bars",
+//   "../js/lib/foundation/scss/foundation/components/reveal",
+"../js/lib/foundation/scss/foundation/components/side-nav",
+//   "../js/lib/foundation/scss/foundation/components/split-buttons",
+"../js/lib/foundation/scss/foundation/components/sub-nav",
+//   "../js/lib/foundation/scss/foundation/components/switches",
+"../js/lib/foundation/scss/foundation/components/tables",
+//   "../js/lib/foundation/scss/foundation/components/tabs",
+"../js/lib/foundation/scss/foundation/components/thumbs",
+//   "../js/lib/foundation/scss/foundation/components/tooltips",
+"../js/lib/foundation/scss/foundation/components/top-bar",
+"../js/lib/foundation/scss/foundation/components/type",
+"../js/lib/foundation/scss/foundation/components/offcanvas",
+"../js/lib/foundation/scss/foundation/components/visibility";
+
+//$fa-font-path: "../js/lib/fontawesome/fonts" !default;
+@import "font-awesome";
+@import "meetup-icon";
+@import "typescriptpdx";
