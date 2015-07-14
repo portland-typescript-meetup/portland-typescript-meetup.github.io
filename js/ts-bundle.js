@@ -1,3 +1,4 @@
+$(document).foundation();
 function fitHeight(target, locator, delay, minWidth) {
     if (delay === void 0) { delay = 500; }
     if (minWidth === void 0) { minWidth = 640; }

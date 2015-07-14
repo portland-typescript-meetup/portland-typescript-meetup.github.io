@@ -6,6 +6,7 @@
 		"sourceMap": true
 	},
 	"files": [
+		"js/src/foundation.ts",
 		"js/src/fit-height.ts",
 		"js/src/sidenav.ts",
 		"js/src/external-links.ts",

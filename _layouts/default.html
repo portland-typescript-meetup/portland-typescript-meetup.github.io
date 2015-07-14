@@ -5,19 +5,19 @@
 
 <body>
 	
-	<div class="row collapse">
-		{% include header.html %}
-		
-		<div class="large-8 medium-6 column" id="main">
-
-			{%if page.path %}
-				{% include edit-button.html path=page.path %}
-			{% endif %}
+	<div class="off-canvas-wrap" data-offcanvas>
+		<div class="inner-wrap row collapse">
+			{% include header.html %}
 			
-			{{ content }}
-		</div>
+			<div class="large-8 medium-9 column" id="main">
+				{%if page.path %}
+					{% include edit-button.html path=page.path %}
+				{% endif %}
+				{{ content }}
+			</div>
 
-		{% include sidebar.html %}
+			{% include sidebar.html %}
+		</div>
 	</div>
 
 	{% include scripts.html %}
