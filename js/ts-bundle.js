@@ -34,8 +34,11 @@ function fitHeight(target, locator, delay, minWidth) {
 }
 var sidebarElements = ['.navbar', '.sidebar'];
 fitHeight(document, sidebarElements, 3000);
-$(window).bind('resize', function () {
+$(window).on('resize', function () {
     fitHeight(document, ['.navbar', '.sidebar'], 500);
+    setTimeout(function () {
+        $('.twitter-timeline').css('width', $('.twitter-timeline').parent().css('width'));
+    }, 500);
 });
 fitHeight(document, '.twitter-timeline', 1000);
 $('a').filter(function (i, element) {
