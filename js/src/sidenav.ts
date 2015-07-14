@@ -6,4 +6,4 @@ $(window).bind('resize', () => {
 	fitHeight(document, ['.navbar', '.sidebar'], 500);
 });
 
-fitHeight(window, '.twitter-timeline', 1000);
+fitHeight(document, '.twitter-timeline', 1000);
