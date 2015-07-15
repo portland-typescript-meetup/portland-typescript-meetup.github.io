@@ -5,4 +5,8 @@ permalink: /slack/
 path: slack.md
 ---
 
-Send email to [kenh@csgpro.com](mailto:kenh@csgpro.com).
+![Slack](/images/slack-logo.png)
+
+Send your invitation request to [kenh@csgpro.com](mailto:kenh@csgpro.com).
+
+Slack: [https://typescriptpdx.slack.com/](https://typescriptpdx.slack.com/)
