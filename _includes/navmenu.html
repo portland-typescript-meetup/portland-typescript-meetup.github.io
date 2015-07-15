@@ -3,8 +3,16 @@
     <li><a href="https://github.com/portland-typescript-meetup"><span class="fa fa-github"></span> GitHub</a></li>
     <li><a href="https://twitter.com/typescriptpdx"><span class="fa fa-twitter"></span> Twitter</a></li>
     <li class="divider"></li>
-    <li><a href="{{ site.baseurl }}/about/"><span class="fa fa-users"></span> About</a></li>
-    <li><a href="{{ site.baseurl }}/blog/"><span class="fa fa-newspaper-o"></span> Blog</a></li>
-    <li><a href="{{ "/feed.xml" | prepend: site.baseurl }}"><span class="fa fa-rss"></span> RSS</a></li>
-    <li><a href="{{ site.baseurl }}/slack/"><span class="fa fa-slack"></span> Slack Invitation</a></li>
+    <li {% if page.nav == "about"%} class="active" {% endif %}>
+    	<a href="{{ site.baseurl }}/about/"><span class="fa fa-users"></span> About</a>
+    </li>
+    <li {% if page.nav == "blog"%} class="active" {% endif %}>
+    	<a href="{{ site.baseurl }}/blog/"><span class="fa fa-newspaper-o"></span> Blog</a>
+    </li>
+    <li>
+    	<a href="{{ "/feed.xml" | prepend: site.baseurl }}"><span class="fa fa-rss"></span> RSS</a>
+    </li>
+    <li {% if page.nav == "slack"%} class="active" {% endif %}>
+    	<a href="{{ site.baseurl }}/slack/"><span class="fa fa-slack"></span> Slack Invitation</a>
+    </li>
 </ul>

@@ -3,6 +3,7 @@ layout: page
 title: Blog Archive
 permalink: /blog/
 path: blog.md
+nav: blog
 ---
 
 <div class="blogEntries no-padding">

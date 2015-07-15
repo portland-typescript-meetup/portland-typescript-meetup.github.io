@@ -49,3 +49,9 @@
 		font-size: 1.1em;
 	}
 }
+
+.side-nav {
+	.active {
+		background-color: darken($primary-color, 10%);
+	}
+}

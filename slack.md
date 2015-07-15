@@ -3,6 +3,7 @@ layout: page
 title: Request Slack Invitation
 permalink: /slack/
 path: slack.md
+nav: slack
 ---
 
 ![Slack](/images/slack-logo.png)
