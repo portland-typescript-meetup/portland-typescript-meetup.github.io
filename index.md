@@ -6,16 +6,32 @@ path: index.md
 <div class="meeting-card next">
 	<div class="row">
 		<div class="column small-12">
+			<img src="/images/meetings/2015-08-12-jonathan-turner.png" alt="TypeScript Editor Shootout" class="presenter-photo" />
+			<h3>Next Meeting: What's New in the TypeScript World</h3>
+			<h4 class="subheader">Jonathan Turner, program manager for the TypeScript team, will be joining us to talk about what’s new in the TypeScript world. Be sure to not miss this special guest! <a href="http://www.meetup.com/Portland-TypeScript-Meetup/events/223007237/" class="button radius tiny alert">RSVP</a></h4>
+		</div>
+	</div>
+	<div class="post-meta row">
+		<div class="small-12 column">
+			<span>Date: August 12, 2015</span>
+			<span>Time: 6:00 PM</span>
+			<span>Location: <a href="https://www.google.com/maps/dir/''/csgpro/data=!4m5!4m4!1m0!1m2!1m1!1s0x549509fecc4eb6af:0x6f807e830f8c5a12?sa=X&ei=-_SEVfHUNYPhoASAoJCIAg&ved=0CIMBEPUXMBE">CSG Pro - 734 NW 14th Ave, Portland, OR 97209</a></span>
+		</div>
+	</div>
+</div>
+
+<div class="meeting-card">
+	<div class="row">
+		<div class="column small-12">
 			<img src="/images/meetings/2015-07-15-editor-shootout.png" alt="TypeScript Editor Shootout" class="presenter-photo" />
-			<h3>Next Meeting: TypeScript Editor Shootout</h3>
-			<h4 class="subheader">Join us for our July meeting where Adron Hall, Ken Howard, James Churchill, Andrew Chalkley, and others (TBD) will be presenting a "TypeScript Editor Shootout" talk. <a href="http://www.meetup.com/Portland-TypeScript-Meetup/events/223007220/" class="button radius tiny success">RSVP</a></h4>
+			<h3>Meeting #4: TypeScript Editor Shootout</h3>
+			<h4 class="subheader">Join us for our July meeting where Adron Hall, Ken Howard, James Churchill, and Andrew Chalkley will be presenting a "TypeScript Editor Shootout" talk.</h4>
 		</div>
 	</div>
 	<div class="post-meta row">
 		<div class="small-12 column">
 			<span>Date: July 15, 2015</span>
-			<span>Time: 6:00 PM</span>
-			<span>Location: <a href="https://www.google.com/maps/dir/''/csgpro/data=!4m5!4m4!1m0!1m2!1m1!1s0x549509fecc4eb6af:0x6f807e830f8c5a12?sa=X&ei=-_SEVfHUNYPhoASAoJCIAg&ved=0CIMBEPUXMBE">CSG Pro - 734 NW 14th Ave, Portland, OR 97209</a></span>
+			<span>Presenters: Ken Howard, James Churchill, Adron Hall, Andrew Chalkley</span>
 		</div>
 	</div>
 </div>
