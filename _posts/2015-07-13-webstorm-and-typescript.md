@@ -114,17 +114,18 @@ Code Formatting
 
 One of the next features I really like is the code formatting that is available in the TypeScript settings for the language.
 
-TypeScript Code Formatting / Styles (Click for full size image)
-TypeScript Code Formatting / Styles (Click for full size image)
-Code Completion
+![TypeScript Code Formatting / Styles](http://photos.adron.me/Software/Software-Development/Work-Flow-of-JavaScript/i-RGvSTcz/0/O/typescript-feature-01.png)
 
-Basic code completion on ^ Space.
-Type completion on ^ ⇧ Space.
-Completing punctuation on Enter.
-Completing statements with smart Enter.
-Completing paths in the Select Path dialog.
-Expanding words with ⌥ Slash.
-Refactoring
+**Code Completion**
+
+* Basic code completion on ^ Space.
+* Type completion on ^ ⇧ Space.
+* Completing punctuation on Enter.
+* Completing statements with smart Enter.
+* Completing paths in the Select Path dialog.
+* Expanding words with ⌥ Slash.
+
+**Refactoring**
 
 Out of the top features I like, along with automatic transpiling, from WebStorm (and the other jetbrains products too) is the ability to do various refactorings on the code base! This one is also more valuable than the transpiling feature, by far, but it's right there on par as far as my own interest in the feature since I find manually transpiling annoying.
 
@@ -135,11 +136,11 @@ Safe Delete - The Safe Delete refactoring lets you safely remove files and symbo
 * Extract Method - When the Extract Method refactoring is invoked in the JavaScript context , WebStorm analyses the selected block of code and detects variables that are the input for the selected code fragment and the variables that are output for it.
 * Extract Variable - The Extract Variable refactoring puts the result of the selected expression into a variable. It declares a new variable and uses the expression as an initializer. The original expression is replaced with the new variable.
 * Change Signature - In JavaScript, you can use the Change Signature refactoring to:
-* Change the function name.
-* Add new parameters and remove the existing ones. Note that you can also add a parameter using a dedicated Extract Parameter refactoring.
-* Reorder parameters.
-* Change parameter names.
-* Propagate new parameters through the method call hierarchy.
+	* Change the function name.
+	* Add new parameters and remove the existing ones. Note that you can also add a parameter using a dedicated Extract Parameter refactoring.
+	* Reorder parameters.
+	* Change parameter names.
+	* Propagate new parameters through the method call hierarchy.
 * Extract Parameter - The Extract Parameter refactoring is used to add a new parameter to a method declaration and to update the method calls accordingly.
 
 So that's the skinny on WebStorm and TypeScript. Happy hacking, cheers!
