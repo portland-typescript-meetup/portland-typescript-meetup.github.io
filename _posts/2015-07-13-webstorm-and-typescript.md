@@ -129,18 +129,18 @@ One of the next features I really like is the code formatting that is available 
 
 Out of the top features I like, along with automatic transpiling, from WebStorm (and the other jetbrains products too) is the ability to do various refactorings on the code base! This one is also more valuable than the transpiling feature, by far, but it's right there on par as far as my own interest in the feature since I find manually transpiling annoying.
 
-* Copy/Clone - The Copy refactoring allows you to copy a class, file, or directory with its entire structure from one directory to another, or clone it within the same directory.
-* Move Refactorings - The Move refactorings allow you to move files and directories within a project. So doing, WebStorm automatically corrects all references to the moved symbols in the source code.
-* Renaming - Rename refactorings allow you to rename symbols , automatically correcting all references in the code.
-Safe Delete - The Safe Delete refactoring lets you safely remove files and symbols from the source code.
-* Extract Method - When the Extract Method refactoring is invoked in the JavaScript context , WebStorm analyses the selected block of code and detects variables that are the input for the selected code fragment and the variables that are output for it.
-* Extract Variable - The Extract Variable refactoring puts the result of the selected expression into a variable. It declares a new variable and uses the expression as an initializer. The original expression is replaced with the new variable.
-* Change Signature - In JavaScript, you can use the Change Signature refactoring to:
+* [Copy/Clone](https://www.jetbrains.com/webstorm/help/copy-clone.html) - The Copy refactoring allows you to copy a class, file, or directory with its entire structure from one directory to another, or clone it within the same directory.
+* [Move Refactorings](https://www.jetbrains.com/webstorm/help/move-refactorings.html) - The Move refactorings allow you to move files and directories within a project. So doing, WebStorm automatically corrects all references to the moved symbols in the source code.
+* [Renaming](https://www.jetbrains.com/webstorm/help/rename-refactorings.html) - Rename refactorings allow you to rename symbols , automatically correcting all references in the code.
+* [Safe Delete](https://www.jetbrains.com/webstorm/help/safe-delete.html) - The Safe Delete refactoring lets you safely remove files and symbols from the source code.
+* [Extract Method](https://www.jetbrains.com/webstorm/help/extract-method.html) - When the Extract Method refactoring is invoked in the JavaScript context , WebStorm analyses the selected block of code and detects variables that are the input for the selected code fragment and the variables that are output for it.
+* [Extract Variable](https://www.jetbrains.com/webstorm/help/extract-variable.html) - The Extract Variable refactoring puts the result of the selected expression into a variable. It declares a new variable and uses the expression as an initializer. The original expression is replaced with the new variable.
+* [Change Signature](https://www.jetbrains.com/webstorm/help/change-signature-in-javascript.html) - In JavaScript, you can use the Change Signature refactoring to:
 	* Change the function name.
 	* Add new parameters and remove the existing ones. Note that you can also add a parameter using a dedicated Extract Parameter refactoring.
 	* Reorder parameters.
 	* Change parameter names.
 	* Propagate new parameters through the method call hierarchy.
-* Extract Parameter - The Extract Parameter refactoring is used to add a new parameter to a method declaration and to update the method calls accordingly.
+* [Extract Parameter](https://www.jetbrains.com/webstorm/help/extract-parameter-in-javascript.html) - The Extract Parameter refactoring is used to add a new parameter to a method declaration and to update the method calls accordingly.
 
 So that's the skinny on WebStorm and TypeScript. Happy hacking, cheers!
