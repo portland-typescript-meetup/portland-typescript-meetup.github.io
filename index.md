@@ -6,9 +6,9 @@ path: index.md
 <div class="meeting-card next">
 	<div class="row">
 		<div class="column small-12">
-			<img src="/images/meetings/2015-08-12-jonathan-turner.png" alt="TypeScript Editor Shootout" class="presenter-photo" />
-			<h3>Next Meeting: What's New in the TypeScript World</h3>
-			<h4 class="subheader">Jonathan Turner, program manager for the TypeScript team, will be joining us to talk about what’s new in the TypeScript world. Be sure to not miss this special guest! <a href="http://www.meetup.com/Portland-TypeScript-Meetup/events/223007237/" class="button radius tiny alert">RSVP</a></h4>
+			<img src="/images/meetings/2015-08-12-ken-howard.jpg" alt="TypeScripting Node" class="presenter-photo" />
+			<h3>Next Meeting: TypeScripting Node</h3>
+			<h4 class="subheader">Ken Howard will show you the ins and outs of writing a Node application in TypeScript from the ground up. Come and bask in all the glory that is TypeScript. Let's get our Node/TypeScript on!  <a href="http://www.meetup.com/Portland-TypeScript-Meetup/events/223007237/" class="button radius tiny alert">RSVP</a></h4>
 		</div>
 	</div>
 	<div class="post-meta row">
