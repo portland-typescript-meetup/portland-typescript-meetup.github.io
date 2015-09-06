@@ -4,7 +4,7 @@ title: "WebStorm and TypeScript"
 author: "Adron Hall"
 authorProfile: "https://github.com/adron"
 summary: ""
-path: _posts/2015-07-13-webstorm-and-typescript.md
+path: _posts/2015-07-26-webstorm-and-typescript.md
 ---
 
 # WebStorm and TypeScript
