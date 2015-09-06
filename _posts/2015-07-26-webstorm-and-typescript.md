@@ -3,7 +3,7 @@ layout: post
 title: "WebStorm and TypeScript"
 author: "Adron Hall"
 authorProfile: "https://github.com/adron"
-summary: ""
+summary: "WebStorm 10 offers support for TypeScript 1.4 and 1.5. This support is basically enabled out of the box. The minute that you launch WebStorm you will see TypeScript features available. This is the version that was included in the shootout for discussion on the panel at the TypeScript Editor Shootout."
 path: _posts/2015-07-26-webstorm-and-typescript.md
 ---
 
