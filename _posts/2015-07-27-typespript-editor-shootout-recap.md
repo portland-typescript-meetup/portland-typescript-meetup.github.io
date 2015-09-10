@@ -54,6 +54,8 @@ The only issue is that it's in beta and there's sometimes bugs for it recognisin
 
 #### The Bad
 
+1. Still in beta and is quirky at times.
+
 ## Web Storm
 Recap by: [Adron Hall](https://github.com/adron)
 
