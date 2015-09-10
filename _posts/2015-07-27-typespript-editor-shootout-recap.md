@@ -40,7 +40,7 @@ Recap by: [Andrew Chalkley](https://github.com/chalkers)
 
 Visual Studio Code is a promising editor. I say _promising_ because it's still in beta. Ever since Microsoft started announcing more Open Source projects, I was hoping for Visual Studio to become cross-platform. Visual Studio Code is the closest thing to that.
 
-It's got the Intellisence of an IDE but without the heaviness of an IDE! It's light and nimble like a Text Editor like Sublime or Atom. It gets out of your way and let's you use your own tools and workflow. However there are options for you to use Visual Studio Code's own task runner too. It supports tsconfig.json and jsconfig.json files too!
+It's got the Intellisence of an IDE but without the heaviness of an IDE! It's light and nimble like a Text Editor, like Sublime or Atom. It gets out of your way and let's you use your own tools and workflow. However there are options for you to use Visual Studio Code's own task runner too. It supports tsconfig.json and jsconfig.json files too!
 
 The only issue is that it's in beta and there's sometimes bugs for it recognising updates to some files like the tsconfig.json. That being said it's lightweight enough that to close it and open it again doesn't take that long at all.
 
