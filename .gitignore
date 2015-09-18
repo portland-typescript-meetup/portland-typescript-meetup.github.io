@@ -1,6 +1,7 @@
 _site/
 .sass-cache/
 .settings/
+.vscode/
 Rakefile
 BingSiteAuth.xml
 .DS_Store
