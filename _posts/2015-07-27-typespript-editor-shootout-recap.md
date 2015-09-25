@@ -3,7 +3,7 @@ layout: post
 title: "Recap: TypeScript Editor Shootout"
 author: "Ken Howard"
 authorProfile: "https://github.com/kenhowardpdx"
-summary: "Here's the conclusion to this month's TypeScript Editor Shootout where four brave souls demonstrated five different editors/IDEs. The results may suprise you."
+summary: "At a recent meetup we held a TypeScript Editor Shootout where four brave souls demonstrated five different editors/IDEs. The results may suprise you."
 path: _posts/2015-07-13-typescript-a-brief-overview.md
 ---
 
@@ -56,7 +56,18 @@ The only issue is that it's in beta and there's sometimes bugs for it recognisin
 
 1. Still in beta and is quirky at times.
 
-## Web Storm
+## WebStorm
 Recap by: [Adron Hall](https://github.com/adron)
+
+First and foremost is the fact that WebStorm builds the TypeScript code files automatically the second you create them. Read [how to use TypeScript in WebStorm](/blog/2015/07/webstorm-and-typescript/) in a previous post.
+
+#### The Good
+
+1. No Plugins to install
+2. Familiar tool for Web Devs
+
+#### The Bad
+
+1. It's a custom implementation so it may lag in new features
 
 ## Conclusion
