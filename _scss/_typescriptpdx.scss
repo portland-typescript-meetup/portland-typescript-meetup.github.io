@@ -55,3 +55,21 @@
 		background-color: darken($primary-color, 10%);
 	}
 }
+
+.copyright {
+    color: #fff;
+    font-size: .9em;
+    margin-top: 20px;
+    padding: 12px;
+}
+
+.side-heading {
+    padding-left: 0.875rem;
+    padding-right: 0.875rem;
+    color: #fff;
+}
+
+.side-list {
+    @extend .side-nav;
+    padding-top: 0;
+}
