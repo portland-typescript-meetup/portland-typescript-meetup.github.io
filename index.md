@@ -41,7 +41,7 @@ path: index.md
 		<div class="column small-12">
 			<img src="/images/meetings/2015-08-12-ken-howard.jpg" alt="Ken Howard" class="presenter-photo" />
 			<h3>Meeting #5: TypeScripting Node</h3>
-			<h4 class="subheader">Ken Howard will show you the ins and outs of writing a Node application in TypeScript from the ground up. Come and bask in all the glory that is TypeScript. Let's get our Node/TypeScript on!  <a href="http://www.meetup.com/Portland-TypeScript-Meetup/events/223007237/" class="button radius tiny alert">RSVP</a></h4>
+			<h4 class="subheader">Ken Howard will show you the ins and outs of writing a Node application in TypeScript from the ground up. Come and bask in all the glory that is TypeScript. Let's get our Node/TypeScript on!</h4>
 		</div>
 	</div>
 	<div class="post-meta row">
