@@ -59,4 +59,5 @@ fitHeight(document, '.twitter-timeline', 1000);
 $('a').filter(function (i, element) {
     return element['hostname'] && element['hostname'] !== location.hostname;
 }).attr("target", "_blank");
+$('.post-content').fitVids();
 //# sourceMappingURL=ts-bundle.js.map
