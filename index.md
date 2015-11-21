@@ -14,6 +14,7 @@ path: index.md
 	<div class="post-meta row">
 		<div class="small-12 column">
 			<span>Date: October 22, 2015</span>
+			<span><a href="/blog/2015/11/typescript-today-and-tomorrow-video/">Watch the presentation</a></span>
 		</div>
 	</div>
 </div>
