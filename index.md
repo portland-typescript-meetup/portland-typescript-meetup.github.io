@@ -2,6 +2,20 @@
 layout: default
 path: index.md
 ---
+<div class="meeting-card">
+	<div class="row">
+		<div class="column small-12">
+			<img src="/images/meetings/2016-01-28-workshop.png" alt="TypeScript Workshop" class="presenter-photo" />
+			<h3>Meeting #8: Up and Running with TypeScript Hands-On Workshop</h3>
+			<h4 class="subheader">Come join us for a hands-on workshop, where we'll work with you to get up and running with TypeScript!</h4>
+		</div>
+	</div>
+	<div class="post-meta row">
+		<div class="small-12 column">
+			<span>Date: January 28, 2016</span>
+		</div>
+	</div>
+</div>
 
 <div class="meeting-card">
 	<div class="row">

@@ -7,3 +7,4 @@ BingSiteAuth.xml
 .DS_Store
 node_modules/
 *.lock
+*.psd
