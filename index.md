@@ -6,8 +6,8 @@ path: index.md
 	<div class="row">
 		<div class="column small-12">
 			<img src="/images/meetings/2016-01-28-workshop.png" alt="TBD" class="presenter-photo" />
-			<h3>Next Meeting: TBD</h3>
-			<h4 class="subheader">TBD <a href="http://www.meetup.com/Portland-TypeScript-Meetup/events/228052415/" class="button radius tiny alert">RSVP</a></h4>
+			<h3>Next Meeting: Using TypeScript Decorators with Angular</h3>
+			<h4 class="subheader">Join us for our February meeting where James Churchill will be presenting "Using TypeScript Decorators with Angular". <a href="http://www.meetup.com/Portland-TypeScript-Meetup/events/228052415/" class="button radius tiny alert">RSVP</a></h4>
 		</div>
 	</div>
 	<div class="post-meta row">
