@@ -5,7 +5,7 @@ path: index.md
 <div class="meeting-card next">
 	<div class="row">
 		<div class="column small-12">
-			<img src="/images/meetings/2015-04-09-james-churchill.png" alt="James Churchill" class="presenter-photo" />
+			<img src="/images/meetings/2016-02-23-james-churchill.png" alt="James Churchill" class="presenter-photo" />
 			<h3>Next Meeting: Using TypeScript Decorators with Angular</h3>
 			<h4 class="subheader">Join us for our February meeting where James Churchill will be presenting "Using TypeScript Decorators with Angular". <a href="http://www.meetup.com/Portland-TypeScript-Meetup/events/228052415/" class="button radius tiny alert">RSVP</a></h4>
 		</div>
