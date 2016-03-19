@@ -5,16 +5,32 @@ path: index.md
 <div class="meeting-card next">
 	<div class="row">
 		<div class="column small-12">
+			<img src="/images/meetings/2016-03-29-peter-snider.jpg" alt="Peter Snider" class="presenter-photo" />
+			<h3>Next Meeting: TypeScript on Node.js</h3>
+			<h4 class="subheader">Join us for our March meeting where Peter Snider will be presenting "TypeScript on Node.js". <a href="http://www.meetup.com/Portland-TypeScript-Meetup/events/229021815/" class="button radius tiny alert">RSVP</a></h4>
+		</div>
+	</div>
+	<div class="post-meta row">
+		<div class="small-12 column">
+			<span>Date: March 29, 2016</span>
+			<span>Time: 6:00 PM</span>
+			<span>Location: <a href="https://www.google.com/maps/dir/''/csgpro/data=!4m5!4m4!1m0!1m2!1m1!1s0x549509fecc4eb6af:0x6f807e830f8c5a12?sa=X&ei=-_SEVfHUNYPhoASAoJCIAg&ved=0CIMBEPUXMBE">CSG Pro - 734 NW 14th Ave, Portland, OR 97209</a></span>
+		</div>
+	</div>
+</div>
+
+<div class="meeting-card">
+	<div class="row">
+		<div class="column small-12">
 			<img src="/images/meetings/2016-02-23-james-churchill.png" alt="James Churchill" class="presenter-photo" />
-			<h3>Next Meeting: Using TypeScript Decorators with Angular</h3>
-			<h4 class="subheader">Join us for our February meeting where James Churchill will be presenting "Using TypeScript Decorators with Angular". <a href="http://www.meetup.com/Portland-TypeScript-Meetup/events/228052415/" class="button radius tiny alert">RSVP</a></h4>
+			<h3>Meeting #9: Using TypeScript Decorators with Angular</h3>
+			<h4 class="subheader">Join us for our February meeting where James Churchill will be presenting "Using TypeScript Decorators with Angular".</h4>
 		</div>
 	</div>
 	<div class="post-meta row">
 		<div class="small-12 column">
 			<span>Date: February 23, 2016</span>
-			<span>Time: 6:00 PM</span>
-			<span>Location: <a href="https://www.google.com/maps/dir/''/csgpro/data=!4m5!4m4!1m0!1m2!1m1!1s0x549509fecc4eb6af:0x6f807e830f8c5a12?sa=X&ei=-_SEVfHUNYPhoASAoJCIAg&ved=0CIMBEPUXMBE">CSG Pro - 734 NW 14th Ave, Portland, OR 97209</a></span>
+            <span><a href="https://github.com/smashdevcode/using-typescript-decorators-with-angular">Reference material</a></span>
 		</div>
 	</div>
 </div>
