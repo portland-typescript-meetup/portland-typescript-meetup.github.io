@@ -5,16 +5,32 @@ path: index.md
 <div class="meeting-card next">
 	<div class="row">
 		<div class="column small-12">
+			<img src="/images/meetings/2016-04-26-nathan-walker.png" alt="Nathan Walker" class="presenter-photo" />
+			<h3>Next Meeting: NativeScript - Build Truly Native Mobile Apps with TypeScript</h3>
+			<h4 class="subheader">Join us for our April meeting where Nathan Walker will be presenting "NativeScript - Build Truly Native Mobile Apps with TypeScript". <a href="http://www.meetup.com/Portland-TypeScript-Meetup/events/229246924/" class="button radius tiny alert">RSVP</a></h4>
+		</div>
+	</div>
+	<div class="post-meta row">
+		<div class="small-12 column">
+			<span>Date: April 26, 2016</span>
+			<span>Time: 6:00 PM</span>
+			<span>Location: <a href="https://www.google.com/maps/dir/''/csgpro/data=!4m5!4m4!1m0!1m2!1m1!1s0x549509fecc4eb6af:0x6f807e830f8c5a12?sa=X&ei=-_SEVfHUNYPhoASAoJCIAg&ved=0CIMBEPUXMBE">CSG Pro - 734 NW 14th Ave, Portland, OR 97209</a></span>
+		</div>
+	</div>
+</div>
+
+<div class="meeting-card">
+	<div class="row">
+		<div class="column small-12">
 			<img src="/images/meetings/2016-03-29-peter-snider.jpg" alt="Peter Snider" class="presenter-photo" />
-			<h3>Next Meeting: TypeScript on Node.js</h3>
-			<h4 class="subheader">Join us for our March meeting where Peter Snider will be presenting "TypeScript on Node.js". <a href="http://www.meetup.com/Portland-TypeScript-Meetup/events/229021815/" class="button radius tiny alert">RSVP</a></h4>
+			<h3>Meeting #10: TypeScript on Node.js</h3>
+			<h4 class="subheader">Join us for our March meeting where Peter Snider will be presenting "TypeScript on Node.js". </h4>
 		</div>
 	</div>
 	<div class="post-meta row">
 		<div class="small-12 column">
 			<span>Date: March 29, 2016</span>
-			<span>Time: 6:00 PM</span>
-			<span>Location: <a href="https://www.google.com/maps/dir/''/csgpro/data=!4m5!4m4!1m0!1m2!1m1!1s0x549509fecc4eb6af:0x6f807e830f8c5a12?sa=X&ei=-_SEVfHUNYPhoASAoJCIAg&ved=0CIMBEPUXMBE">CSG Pro - 734 NW 14th Ave, Portland, OR 97209</a></span>
+			<span><a href="http://bit.ly/TSNODE">Reference material</a></span>
 		</div>
 	</div>
 </div>
