@@ -54,6 +54,9 @@
 	.active {
 		background-color: darken($primary-color, 10%);
 	}
+	li a:not(.button), li a:not(.button) {
+		color: #fff;
+	}
 }
 
 .copyright {
