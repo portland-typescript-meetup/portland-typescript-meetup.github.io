@@ -10,3 +10,7 @@ typescriptpdx.github.io
 * Step 4) Create Pull Request
 
 * Step 5) Profit!
+
+### running locally
+
+`bundle exec jekyll serve`
